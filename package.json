@@ -1,0 +1,19 @@
+{
+  "name": "nokia-snake-game",
+  "version": "1.0.0",
+  "description": "### Todo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanthoshRaghav/nokia-snake-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SanthoshRaghav/nokia-snake-game/issues"
+  },
+  "homepage": "https://github.com/SanthoshRaghav/nokia-snake-game#readme"
+}
