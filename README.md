@@ -1,2 +1,5 @@
 # Nokia Snake Game
-Nokia snake game
+
+## Todo
+
+- [] Create multiple empty div's
