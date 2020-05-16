@@ -1,7 +1,7 @@
-# Nokia Snake Game
+# Nokia Snake Game :grinning:
 
 ### Todo
 
-- [ ] Vanilla javascript
+- [x] Vanilla javascript
 - [ ] Create multiple empty div's
 - [ ] Animations
