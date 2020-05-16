@@ -1,6 +1,6 @@
 # Nokia Snake Game
 
-## Todo
+### Todo
 
 - [ ] Vanilla javascript
 - [ ] Create multiple empty div's
